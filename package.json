@@ -1,0 +1,1 @@
+{"name": "future-codec", "version": "1.0.0", "description": "A Node.js backend setup", "main": "index.js", "scripts": { "test": "echo 'Error: no test specified' && exit 1" }, "author": "lovabledeveloperheh-web", "license": "ISC"}
